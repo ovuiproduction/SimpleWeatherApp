@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenWeatherAPI</string>
+    <string name="weather_app">Weather App</string>
+    <string name="today_s_weather">Today\'s Weather</string>
+    <string name="enter_city_name">Enter City name</string>
+    <string name="enter_country_code">Enter Country Code</string>
+    <string name="get">Get</string>
+    <string name="getbtn">getBtn</string>
+    <string name="getinfobtn">getInfoBtn</string>
+</resources>
